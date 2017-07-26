@@ -26,7 +26,7 @@ Step 2. Add the dependency
 
 
   	dependencies {
-		compile 'com.github.xiaogaofudao:Toast:v1.0.0'
+		compile 'com.github.xiaogaofudao:Toast:1.0.0'
 	}
   
 
